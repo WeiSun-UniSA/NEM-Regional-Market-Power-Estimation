@@ -6,6 +6,8 @@ This repo contains:
 - Key references
 - Jupyter notebooks
 - Sample data for testing the workflow
+  - Reference data
+  - Monthly data
 - Results
   - Estimated Market Power
   - Aggregated Supply
